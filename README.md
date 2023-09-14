@@ -7,12 +7,14 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeleite03&show_icons=true&locale=en" alt="guilhermeleite03" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeleite03&show_icons=true&locale=en&layout=compact" alt="guilhermeleite03" /></p>
+<div>
+
+  <a href="https://github.com/duart3x">
+  <img height="180em" src="https://github-readme-stats-beta-orpin.vercel.app/api?username=guilhermeleite03&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=e81c1c&title_color=e81c1c&bg_color=000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-beta-orpin.vercel.app/api/top-langs/?username=guilhermeleite03&layout=compact&langs_count=7&theme=dark&icon_color=e81c1c&title_color=e81c1c&bg_color=000000&hide_border=true"/>
+</div>
 
 
-</br>
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
